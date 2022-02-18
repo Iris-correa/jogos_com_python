@@ -1,0 +1,14 @@
+videogame
+monitor
+maquinadelavar
+computador
+mouse
+notbook
+oculos3d
+cafeteira
+ventilador
+teclado
+impressora
+celular
+smartfone
+televisao
